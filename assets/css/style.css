@@ -112,6 +112,8 @@ footer{
     border-color:#4aaaa5;
     position:absolute;
     bottom:0;
+    right:0;
+    height:60px; 
 }
 .grid-container {
     display: grid;
@@ -182,6 +184,18 @@ footer{
         padding:10px;
         color:#4aaaa5;
         text-align:center;
+    }
+    footer{
+        width:100%;
+        padding:20px;
+        margin-top:50px;
+        color:slategray;
+        background-color:white;
+        text-align:center;
+        border-top:solid;
+        border-color:#4aaaa5;
+        position:relative;
+        bottom:0;
     }
 
       
